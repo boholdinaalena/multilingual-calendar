@@ -1,0 +1,28 @@
+{
+    "title": "Calendar",
+    "selected": "Selected data",
+    "days": [
+        "sun",
+        "mon",
+        "tue",
+        "wed",
+        "thu",
+        "fri",
+        "sat"
+      ],
+    "month": [
+        "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December"
+      ],
+    "switchLang": "Switch Lang"
+}
