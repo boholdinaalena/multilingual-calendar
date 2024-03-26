@@ -4,7 +4,7 @@
       <button><img src="../../assets/arr_left.svg" alt="<"></button>
     </span>
     <span>
-      {{ $t(`month[${viewMonth}]`) }}
+      {{ $t(`month[${viewMonth}]`).slice(0, 3) }}
       <slot />
     </span>
 
